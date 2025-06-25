@@ -5,6 +5,6 @@
 
   # CindyGTang's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[cindygtang.github.io/AOEL](https://cindygtang.github.io/AOEL)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
