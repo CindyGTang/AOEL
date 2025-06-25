@@ -3,7 +3,7 @@
 
 # CindyGTang's Website
 
-The Advanced Organic Electronics Lab (AOEL) comprise of a dynamic and multidisciplinary team of material scientists, chemists, physicists, chemical engineers, bioengineers and electrical engineers that utilizes principles from chemistry, physics and material sciences to develop flexible, stretchable and biocompatible organic materials, electronics and devices inspired by nature.
+The Advanced Organic Electronics Lab (AOEL) was established in Sep 2024, led by Prof. Cindy Tang, and is based in the Department of Chemical and Biological Engineering (CBE) at the Hong Kong University of Science and Technology (HKUST). 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ The Advanced Organic Electronics Lab (AOEL) comprise of a dynamic and multidisci
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on the development of flexible, stretchable and biocompatible organic-based materials, electronics and devices inspired by nature.
 
 {%
   include button.html
