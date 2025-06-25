@@ -37,6 +37,15 @@ Find out more about the current & alumni members!
   text=text
 %}
 
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="publications"
+  title="Our Publications"
+  text=text
+%}
+
 {%
   include button.html
   link="publications"
@@ -47,14 +56,6 @@ Find out more about the current & alumni members!
 %}
 
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="publications"
-  title="Our Publications"
-  text=text
-%}
 
 {% capture text %}
 
