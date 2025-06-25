@@ -15,7 +15,7 @@ Our research focuses on the development of flexible, stretchable and biocompatib
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,8 +27,8 @@ Our research focuses on the development of flexible, stretchable and biocompatib
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
