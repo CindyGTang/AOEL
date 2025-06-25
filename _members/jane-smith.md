@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Cindy Guanyu Tang (董冠妤)
+image: team/photos/PI_Cindy Tang.jpg
 role: principal-investigator
 affiliation: University of Colorado
 aliases:
-  - J. Smith
-  - J Smith
+  - Cindy Tang
+  - Cindy G. Tang
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://facultyprofiles.hkust.edu.hk/profiles.php?profile=cindy-tang-cindytang
+  orcid: https://orcid.org/0000-0002-8799-0873
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Cindy G. Tang (董冠妤) received her PhD degree from the Department of Physics and her bachelor’s degree in Engineering Science at the National University of Singapore (NUS). She received the best PhD thesis award in Natural Sciences at NUS and was a recipient of the Presidential Postdoctoral Fellowship at Nanyang Technological University (NTU). She has published her research as in several high-impact journals including Nature, Nature Communications, Advanced Materials, Advanced Science, ACS Nano, Materials Horizon, etc.
