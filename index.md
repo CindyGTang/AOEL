@@ -3,7 +3,7 @@
 
 # CindyGTang's Website
 
-An engaging 1-3 sentence description of your lab.
+The Advanced Organic Electronics Lab (AOEL) comprise of a dynamic and multidisciplinary team of material scientists, chemists, physicists, chemical engineers, bioengineers and electrical engineers that utilizes principles from chemistry, physics and material sciences to develop flexible, stretchable and biocompatible organic materials, electronics and devices inspired by nature.
 
 {% include section.html %}
 
