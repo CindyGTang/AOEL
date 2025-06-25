@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # CindyGTang's Website
+  # Cindy Tang - AOEL
 
   Visit **[cindygtang.github.io/AOEL](https://cindygtang.github.io/AOEL)** 🚀
 
