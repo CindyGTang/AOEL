@@ -61,6 +61,8 @@ insert publication description
   image="images/publication.jpg"
   link="publications"
   title="Our Publications"
+  flip=true
+  style="bare"
   text=text
 %}
 
@@ -86,8 +88,6 @@ insert project description
   image="images/project.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
