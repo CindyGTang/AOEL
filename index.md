@@ -23,7 +23,7 @@ Find out more about the current & alumni members!
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet Our Team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -48,7 +48,7 @@ insert publication description
 {%
   include button.html
   link="publications"
-  text="See our publications"
+  text="Browse Our Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -91,3 +91,27 @@ insert project description
   text=text
 %}
 
+
+
+{% capture text %}
+
+insert news description
+
+{%
+  include button.html
+  link="blog"
+  text="See Our Latest News"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/blog.jpg"
+  link="blog"
+  title="Latest News"
+  text=text
+%}

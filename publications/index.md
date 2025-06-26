@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Publications
 nav:
-  order: 4
+  order: 2
   tooltip: Software, datasets, and more
 ---
 
