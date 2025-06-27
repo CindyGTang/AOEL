@@ -1,6 +1,6 @@
 ---
 title: Nomination as Young Scientist - 73rd Lindau Nobel Laureate Meeting, Germany
-image: images/news/2024-Lindau.jpg
+image: images/news/2024-lindau.jpg
 tags: awards
 ---
 
