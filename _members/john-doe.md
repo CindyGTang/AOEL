@@ -1,10 +1,11 @@
 ---
 name: Monika Bai
-image: images/photo.jpg
-role: phd
+image: team/photos/Postdoc_Monika-Bai.jpg
+role: Postdoc
 group: alum
 links:
-  google-scholar: 
+  email: drmonikag@ust.hk
+  google-scholar: 7DL4aoUAAAAJ
   orcid: john-doe
 ---
 

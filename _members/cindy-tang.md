@@ -8,6 +8,7 @@ aliases:
   - Cindy G. Tang
   - Cindy Guanyu Tang
 links:
+  email: cindytang@ust.hk
   google-scholar: rZEFbpwAAAAJ
   home-page: https://facultyprofiles.hkust.edu.hk/profiles.php?profile=cindy-tang-cindytang
   orcid: 0000-0002-8799-0873
