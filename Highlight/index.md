@@ -1,7 +1,7 @@
 ---
 title: Highlights
 nav:
-  order: 5
+  order: 4
   tooltip: Musings and miscellany
 ---
 

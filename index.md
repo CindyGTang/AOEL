@@ -43,7 +43,7 @@ Find out more about the current & alumni members!
 
 {% capture text %}
 
-insert publication description
+insert publications description
 
 {%
   include button.html
@@ -58,36 +58,9 @@ insert publication description
 
 {%
   include feature.html
-  image="images/publication.jpg"
+  image="images/publications.jpg"
   link="publications"
   title="Our Publications"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-
-
-{% capture text %}
-
-insert project description
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/project.jpg"
-  link="projects"
-  title="Our Projects"
   text=text
 %}
 
