@@ -99,7 +99,7 @@ insert news description
 
 {%
   include button.html
-  link="blog"
+  link="Highlights"
   text="See Our Latest News"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -110,8 +110,9 @@ insert news description
 
 {%
   include feature.html
-  image="images/blog.jpg"
-  link="blog"
+  image="images/highlights.jpg"
+  link="Highlights"
   title="Latest News"
+  flip=true
   text=text
 %}

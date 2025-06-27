@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Highlights
 nav:
   order: 5
   tooltip: Musings and miscellany
