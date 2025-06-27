@@ -3,18 +3,15 @@
 
 # Advanced Organic Electronics Lab (AOEL)
 
-AOEL was founded in Sep 2024, led by Prof. Cindy Tang, and is based in the Department of Chemical and Biological Engineering (CBE) at the Hong Kong University of Science and Technology (HKUST). 
+AOEL is led by Prof. Cindy Tang and was founded in Sep 2024. Our lab is based in the Department of Chemical and Biological Engineering (CBE) at the Hong Kong University of Science and Technology (HKUST; QS2025 World Ranking #44). 
+
+We are a multidisciplinary team of material scientists, chemists, physicists, chemical engineers, bioengineers and electrical engineers that utilizes principles from chemistry, physics and material sciences to develop flexible, stretchable and biocompatible organic materials, electronics and devices inspired by nature.
 
 
 {% include section.html %}
 
 ## About Us
 
-{% capture text %}
-
-We are a multidisciplinary team of material scientists, chemists, physicists, chemical engineers, bioengineers and electrical engineers that utilizes principles from chemistry, physics and material sciences to develop flexible, stretchable and biocompatible organic materials, electronics and devices inspired by nature.
-
-{% endcapture %}
 
 {% capture text %}
 

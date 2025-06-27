@@ -7,15 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Most updated list of publications can be found on {% include citation.html lookup="Google Scholar" style="rich" %} or ORCID.
+Most updated list of publications can be found on <a href="https://scholar.google.com/citations?user=rZEFbpwAAAAJ&hl=en" class="ext su-link--external" data-extlink="">Google Scholar</a> or ORCID.
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
 
 ## All
 
