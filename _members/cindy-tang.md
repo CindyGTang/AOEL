@@ -1,13 +1,14 @@
 ---
 name: Cindy Guanyu Tang (董冠妤)
-image: team/photos/PI_Cindy Tang.jpg
+image: team/photos/PI_Cindy-Tang.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: National University of SIngapore
 aliases:
   - Cindy Tang
   - Cindy G. Tang
   - Cindy Guanyu Tang
 links:
+  google-scholar: rZEFbpwAAAAJ
   home-page: https://facultyprofiles.hkust.edu.hk/profiles.php?profile=cindy-tang-cindytang
   orcid: 0000-0002-8799-0873
 ---
