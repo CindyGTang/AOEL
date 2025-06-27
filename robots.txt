@@ -1,1 +1,1 @@
-Sitemap: http://cindytanglab.com/sitemap.xml
+Sitemap: https://cindytanglab.com/sitemap.xml
