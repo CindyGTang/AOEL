@@ -35,6 +35,7 @@
         {% if citation.link %}
           href="{{ citation.link | relative_url | xml_escape }}"
         {% endif %}
+        target="_blank" 
         class="citation-title"
       >
         {{ citation.title | default: "[no title info]" }}
@@ -42,7 +43,7 @@
 
       <div
         class="citation-authors"
-        {% if citation.authors.size > 10 %}
+        {% if citation.authors.size > 20 %}
           data-tooltip="{{ citation.authors | join: ", " | xml_escape }}"
         {% endif %}
         tabindex="0"
