@@ -15,6 +15,7 @@
   date: '2024-09-10'
   link: https://doi.org/g9rfr4
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-024-51403-9
@@ -37,6 +38,7 @@
   date: '2024-08-15'
   link: https://doi.org/g9rfr5
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/adma.202405556
@@ -59,6 +61,7 @@
   date: '2024-07-17'
   link: https://doi.org/g9rfr6
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/ADFM.202305780
@@ -81,6 +84,7 @@
   date: '2023-09-17'
   link: https://doi.org/g9rfr7
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-023-39215-9
@@ -101,6 +105,7 @@
   date: '2023-07-05'
   link: https://doi.org/g9rfr8
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.NANOEN.2023.108900
@@ -116,6 +121,7 @@
   date: '2023-12-01'
   link: https://doi.org/gtbc6c
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.CHEMMATER.3C02093
@@ -128,6 +134,7 @@
   date: '2023-12-18'
   link: https://doi.org/g9rfr9
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3628228.3628485
@@ -145,6 +152,7 @@
   date: '2023-08-08'
   link: https://doi.org/g9rfsb
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/acsnano.2c02191
@@ -169,6 +177,7 @@
   date: '2022-08-08'
   link: https://doi.org/gssvxr
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/d1mh00859e
@@ -188,6 +197,7 @@
   date: '2022-01-01'
   link: https://doi.org/g9rfsc
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-021-23347-x
@@ -206,6 +216,7 @@
   date: '2021-06-07'
   link: https://doi.org/gkf445
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-021-22358-y
@@ -223,6 +234,7 @@
   date: '2021-04-14'
   link: https://doi.org/gs2jh7
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/advs.202002065
@@ -245,6 +257,7 @@
   date: '2020-12-18'
   link: https://doi.org/g9rfsd
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/c9mh01749f
@@ -265,6 +278,7 @@
   date: '2020-01-01'
   link: https://doi.org/g9rfsf
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/c9tc03884a
@@ -284,6 +298,7 @@
   date: '2020-01-01'
   link: https://doi.org/g9rfsg
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/acsami.9b12503
@@ -300,6 +315,7 @@
   date: '2019-12-02'
   link: https://doi.org/g9rfsh
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41586-019-1575-7
@@ -322,6 +338,7 @@
   date: '2019-09-25'
   link: https://doi.org/gf8zwv
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/adfm.201606291
@@ -342,6 +359,7 @@
   date: '2017-03-31'
   link: https://doi.org/gs3r4m
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature20133
@@ -363,6 +381,7 @@
   date: '2016-11-01'
   link: https://doi.org/f9cmjr
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ncomms11948
@@ -381,6 +400,7 @@
   date: '2016-09-01'
   link: https://doi.org/f867hc
   orcid: 0000-0002-8799-0873
+  cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
