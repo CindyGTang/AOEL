@@ -1,6 +1,5 @@
 ---
-name: Cindy Guanyu Tang
-name: (董冠妤) 
+name: Cindy Guanyu Tang\n(董冠妤) 
 image: team/photos/PI_Cindy-Tang.jpg
 role: principal-investigator
 aliases:
