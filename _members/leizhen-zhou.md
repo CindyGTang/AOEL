@@ -1,7 +1,7 @@
 ---
 name: Leizhen Zhou
 image: team/photos/Alumni_MSc_Leizhen-Zhou.JPG
-role: MSc
+role: msc
 description: 2024/25
 links:
   email: lzhoubn@connect.ust.hk

@@ -2,23 +2,26 @@
 
 # team member roles
 
-principal-investigator:
+pi:
    description: Principal Investigator
 
-Postdoc:
+postdoc:
   description: Postdoctoral Researcher
 
-PhD:
-  description: PhD Student
+phd:
+  description: Doctor of Philosophy (PhD)
 
-MSc:
-  description: MSc Student
+phd-co:
+  description: Doctor of Philosophy (PhD; co-supervised)
 
-MPhil:
-  description: MPhil Student
+msc:
+  description: Master of Science (MSc)
 
-undergrad:
-  description: Undergraduate Student
+mphil:
+  description: Master of Philosophy (MPhil)
+
+ug:
+  description: Undergraduate 
 
 
 # general
@@ -89,7 +92,7 @@ twitter:
   icon: fa-brands fa-twitter
   text: Twitter
   tooltip: Twitter
-  link: https://twitter.com/$VALUE
+  link: https://x.com/$VALUE
 
 bluesky:
   icon: fa-brands fa-bluesky

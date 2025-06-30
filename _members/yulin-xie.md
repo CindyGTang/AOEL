@@ -1,7 +1,7 @@
 ---
 name: Yulin Xie
 image: team/photos/Alumni_MSc_Yulin-Xie.JPG
-role: MSc
+role: msc
 group: alumni
 links:
   email: syxieci@connect.ust.hk

@@ -1,7 +1,7 @@
 ---
 name: Majid Z. Esfahani
 image: team/photos/PhD_Majid.JPG
-role: PhD (co-supervised)
+role: phd-co
 links:
   email: mze@connect.ust.hk
   google-scholar: MmDQWjIAAAAJ
