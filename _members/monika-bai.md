@@ -1,6 +1,5 @@
 ---
 name: Monika Bai
-date: 2023
 image: team/photos/Postdoc_Monika-Bai.jpg
 role: postdoc
 links:
