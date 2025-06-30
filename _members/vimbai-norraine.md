@@ -1,6 +1,5 @@
 ---
 name: Vimbai Norraine
-date: 2025
 image: team/photos/UROP_Vimbai-Norraine-Zisengwe.jpg
 role: ug
 links:
