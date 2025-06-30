@@ -1,5 +1,5 @@
 ---
-name: Majid Zomorodian Esfahani
+name: Majid Z. Esfahani
 image: team/photos/PhD_Majid.JPG
 role: PhD (co-supervised)
 links:

@@ -1,5 +1,6 @@
 ---
 name: Guangyu Wang
+date: 2024
 image: team/photos/PhD_Guangyu-Wang.jpg
 role: PhD
 links:
