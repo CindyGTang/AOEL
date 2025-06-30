@@ -1,7 +1,7 @@
 ---
 name: Cindy G. Tang (董冠妤) 
 image: team/photos/PI_Cindy-Tang.jpg
-role: principal-investigator
+role: pi
 aliases:
   - Cindy Tang
   - Cindy G. Tang
