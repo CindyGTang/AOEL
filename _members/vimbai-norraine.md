@@ -1,5 +1,5 @@
 ---
-name: Vimbai Norraine
+name: Vimbai N. Zisengwe
 image: team/photos/UROP_Vimbai-Norraine-Zisengwe.jpg
 role: ug
 links:

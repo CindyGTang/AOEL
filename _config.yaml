@@ -38,12 +38,13 @@ collections:
   members:
     sort_by: year
     order: 
-    - postdoc
-    - phd
-    - phd-co 
-    - mphil
-    - msc
-    - ug
+    - monika-bai.md
+    - guangyu_wang.md
+    - ruiran_huang.md
+    - majid-zomorodian-esfahani.md
+    - leizhen-zhou.md
+    - yulin-xie.md
+    - vimbai-norraine.md
     output: false
   # generate page for each post
   posts:
