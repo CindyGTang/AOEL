@@ -13,7 +13,7 @@ nav:
 
 Current members
 
-{% include list.html data="members" component="portrait" filter="role != 'pi' filter="group != 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html %}
 
