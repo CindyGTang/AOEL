@@ -17,11 +17,11 @@ Prof. Cindy G. Tang (董冠妤) received her PhD degree from the Department of P
 
 # Current Members
 
-{% data="members" component="portrait" filter="group !='alumni' and role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="group !='alumni' and role != 'pi'" %}
 
 
 {% include section.html %}
 
 # Alumni
 
-{% data="members" component="portrait" filter="group == 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
