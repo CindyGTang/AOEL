@@ -38,12 +38,12 @@ collections:
   members:
     sort_by: year
     order: 
-    - role =='postdoc'
-    - role =='phd' 
-    - role =='phd-co' 
-    - role =='mphil' 
-    - role =='msc' 
-    - role =='ug'
+    - postdoc
+    - phd
+    - phd-co 
+    - mphil
+    - msc
+    - ug
     output: false
   # generate page for each post
   posts:
