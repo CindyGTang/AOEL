@@ -57,43 +57,7 @@ Prof. Cindy Tang's office is located at <a href="https://pathadvisor.ust.hk/from
 
 {% include section.html %}
 
-## More
+## We are seeking people passionate in research to join our growing team!
+‍Please send your CV, academic record and short description of relevant experience to Prof. Tang if interested (cindytang@ust.hk). Email subject title: PhD/MPhil/Postdoc/UROP/Exchange(choose one) Application_Your Name. Only shortlisted candidates will be contacted.
 
-{% include list.html component="card" data="jobs" style="small" %}
-
-
-{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col4 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col5 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 %}
+{% include list.html component="card" data="projects" filter="group == 'jobs' style="small" %}
