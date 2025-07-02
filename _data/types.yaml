@@ -6,22 +6,22 @@ pi:
    description: Principal Investigator
 
 postdoc:
-  description: Postdoctoral Researcher
+  description: Postdoc
 
 phd:
-  description: Doctor of Philosophy (PhD)
+  description: PhD
 
 phd-co:
-  description: Doctor of Philosophy (PhD; co-supervised)
+  description: PhD; co-supervised
 
 msc:
-  description: Master of Science (MSc)
+  description: MSc
 
 mphil:
-  description: Master of Philosophy (MPhil)
+  description: MPhil
 
 ug:
-  description: Undergraduate 
+  description: Undergrad 
 
 
 # general
