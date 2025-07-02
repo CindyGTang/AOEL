@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% capture floatcontent %}
-
-{% include portrait.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 <div>
   {% for link in page.links %}
@@ -18,22 +16,6 @@ nav:
     {% include button.html type=key link=value style="bare" %}<br>
   {% endfor %}
 </div>
-
-{% endcapture %}
-
-{% include float.html content=floatcontent %}
-
-{{ content }}
-
-{% assign aliases = page.aliases
-  | default: page.name
-  | default: page.title
-  | join: ","
-  | split: ","
-  | array_filter
-%}
-
-
 
 {% include section.html %}
 
