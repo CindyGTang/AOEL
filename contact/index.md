@@ -16,7 +16,7 @@ Academic Building, HKUST,
 Clear Water Bay Road
 Kowloon, Hong Kong
 
-Prof. Cindy Tang's office is located at <a href="https://pathadvisor.ust.hk/from/to/ROOM%204587/floor/4/at/normalized/2497,-214,3" target="_blank" class="ext su-link--external" data-extlink="" tooltip="location on HKUST pathadvisor for easy navigation">Room 4587</a>. 
+Prof. Cindy Tang's office is located at <a href="https://pathadvisor.ust.hk/from/to/ROOM%204587/floor/4/at/normalized/2497,-214,3" target="_blank" class="ext su-link--external" data-extlink="">Room 4587</a>. 
 
 {%
   include button.html
