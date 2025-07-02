@@ -55,6 +55,13 @@ Prof. Cindy Tang's office is located at <a href="https://pathadvisor.ust.hk/from
 
 {% endcapture %}
 
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="jobs" style="small" %}
+
+
 {% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 %}
 
 {% include section.html dark=true %}
