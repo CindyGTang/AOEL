@@ -9,16 +9,18 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-{% include section.html %}
 
-Current members
-
-{% include list.html data="members" component="portrait" filter="role != 'pi'" filter="group !='alumni'" %}
 
 {% include section.html %}
 
-Alumni
+# Current Members
+
+{% include list.html data="members" component="portrait" filter="role != 'pi' & "group !='alumni'" %}
+
+
 
 {% include section.html %}
+
+# Alumni
 
 {% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
