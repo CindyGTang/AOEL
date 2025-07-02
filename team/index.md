@@ -9,20 +9,53 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-{% capture text %}
+{% capture floatcontent %}
 
-Prof. Cindy G. Tang (董冠妤) received her PhD degree from the Department of Physics and her bachelor’s degree in Engineering Science at the National University of Singapore (NUS). She received the best PhD thesis award in Natural Sciences at NUS and was a recipient of the Presidential Postdoctoral Fellowship at Nanyang Technological University (NTU). She has published her research as in several high-impact journals including Nature, Nature Communications, Advanced Materials, Advanced Science, ACS Nano, Materials Horizon, etc.
+{% include portrait.html lookup=page.slug %}
+
+<div>
+  {% for link in page.links %}
+    {% assign key = link[0] %}
+    {% assign value = link[1] %}
+    {% include button.html type=key link=value style="bare" %}<br>
+  {% endfor %}
+</div>
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/team.jpg"
-  link="team"
-  title="Our Team"
-  text=text
+{% include float.html content=floatcontent %}
+
+{{ content }}
+
+{% assign aliases = page.aliases
+  | default: page.name
+  | default: page.title
+  | join: ","
+  | split: ","
+  | array_filter
 %}
 
+{% capture search -%}
+  publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
+{%- endcapture %}
+
+<p class="center">
+  <a href="{{ search | relative_url | uri_escape }}">
+    Search for {{ page.name | default: page.title }}'s papers on the Research page
+  </a>
+</p>
+
+{% capture search -%}
+  blog/?search={{ page.name }}
+{%- endcapture %}
+
+<!--
+<p class="center">
+  <a href="{{ search | relative_url | uri_escape }}">
+    See {{ page.name | default: page.title }}'s posts on the Blog page
+  </a>
+</p>
+-->
 
 
 {% include section.html %}
