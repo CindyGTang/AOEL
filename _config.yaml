@@ -42,9 +42,12 @@ collections:
     - guangyu_wang.md
     - ruiran_huang.md
     - majid-zomorodian-esfahani.md
+    - jing-zhang.md
+    - xiang-li.md
     - leizhen-zhou.md
     - yulin-xie.md
     - vimbai-norraine.md
+    - xinyi-lin.md
     output: true
   # generate page for each post
   posts:

@@ -1,6 +1,6 @@
 ---
 name: Leizhen Zhou
-image: _members/photos/Alumni_MSc_Leizhen-Zhou.JPG
+image: _members/photos/MSc_Leizhen-Zhou.JPG
 role: msc
 group: alumni
 year: 2025
