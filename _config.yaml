@@ -36,10 +36,18 @@ defaults:
 collections:
   # generate page for each member
   members:
-    output: true
+    sort_by: year
+    order: 
+    - role =='postdoc'
+    - role =='phd' 
+    - role =='phd-co' 
+    - role =='mphil' 
+    - role =='msc' 
+    - role =='ug'
+    output: false
   # generate page for each post
   posts:
-    output: true
+    output: false
 
 # jekyll plugins
 plugins:
