@@ -11,20 +11,14 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+Current members
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-test-2
+{% include list.html data="members" component="portrait" filter="role != 'pi' filter="group != 'alumni'" %}
 
 {% include section.html %}
 
-{% capture content %}
+Alumni
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include section.html %}
 
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filter="group = 'alumni'" %}
