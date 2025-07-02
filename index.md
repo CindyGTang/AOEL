@@ -1,5 +1,5 @@
 ---
-#
+
 ---
 
 # Advanced Organic Electronics Lab (AOEL)
