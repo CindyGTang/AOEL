@@ -41,7 +41,7 @@ Find out more about the current & alumni members!
 
 {% capture text %}
 
-insert publications description
+Find out more about our work!
 
 {%
   include button.html
@@ -59,6 +59,7 @@ insert publications description
   image="images/publications.jpg"
   link="publications"
   title="Our Publications"
+  flip=true
   text=text
 %}
 
@@ -66,7 +67,7 @@ insert publications description
 
 {% capture text %}
 
-insert news description
+Find out more about our latest news and updates!
 
 {%
   include button.html
@@ -84,6 +85,5 @@ insert news description
   image="images/highlights.jpg"
   link="Highlights"
   title="Latest News"
-  flip=true
   text=text
 %}
