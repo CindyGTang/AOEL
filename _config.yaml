@@ -45,10 +45,10 @@ collections:
     - leizhen-zhou.md
     - yulin-xie.md
     - vimbai-norraine.md
-    output: false
+    output: true
   # generate page for each post
   posts:
-    output: false
+    output: true
 
 # jekyll plugins
 plugins:
