@@ -44,10 +44,10 @@ collections:
     - role =='mphil' 
     - role =='msc' 
     - role =='ug'
-    output: 
+    output: false
   # generate page for each post
   posts:
-    output: 
+    output: false
 
 # jekyll plugins
 plugins:
