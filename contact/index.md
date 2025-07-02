@@ -1,5 +1,5 @@
 ---
-title: Opportunities
+title: Contact Us
 nav:
   order: 5
   tooltip: Email, address, and location
@@ -9,7 +9,7 @@ nav:
 
 AOEL is based in the Department of Chemical and Biological Engineering (CBE) at the Hong Kong University of Science and Technology (HKUST). 
 
-Our lab address is:
+Our <a href="https://pathadvisor.ust.hk/from/to/7119;0HyuKKOTG_F;7;1448,334/floor/7/at/normalized/1448,334,3" target="_blank" class="ext su-link--external" data-extlink="" tooltip="location on HKUST pathadvisor for easy navigation">lab address</a> is:
 
 Room 7119, 7/F (Lift 19) 
 Academic Building, HKUST
@@ -32,6 +32,8 @@ Prof. Cindy Tang's office is located at <a href="https://pathadvisor.ust.hk/from
 %}
 
 {% include section.html %}
+
+# {% include icon.html icon="fa-regular fa-envelope" %}Opportunities
 
 {% capture col1 %}
 

@@ -7,11 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-
 {% capture floatcontent %}
 
-{% include portrait.html lookup=page.slug %}
+{% include portrait.html data="members" component="portrait" filter="role == 'pi'" %}
 
 <div>
   {% for link in page.links %}
@@ -35,27 +33,6 @@ nav:
   | array_filter
 %}
 
-{% capture search -%}
-  publications/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
-
-<p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
-  </a>
-</p>
-
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
-
-<!--
-<p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    See {{ page.name | default: page.title }}'s posts on the Blog page
-  </a>
-</p>
--->
 
 
 {% include section.html %}
