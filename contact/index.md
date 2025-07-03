@@ -9,9 +9,7 @@ nav:
 
 AOEL is based in the Department of Chemical and Biological Engineering (CBE) at the Hong Kong University of Science and Technology (HKUST). 
 
-Our lab address is:
-
-<a href="https://pathadvisor.ust.hk/from/to/7119;0HyuKKOTG_F;7;1448,334/floor/7/at/normalized/1448,334,3" target="_blank" class="ext su-link--external" data-extlink="">Room 7119</a>, 7/F (Lift 19),
+Our lab address is: <a href="https://pathadvisor.ust.hk/from/to/7119;0HyuKKOTG_F;7;1448,334/floor/7/at/normalized/1448,334,3" target="_blank" class="ext su-link--external" data-extlink="">Room 7119</a>, 7/F (Lift 19),
 Academic Building, HKUST,
 Clear Water Bay Road
 Kowloon, Hong Kong
