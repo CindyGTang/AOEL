@@ -111,7 +111,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 140px;
   flex-shrink: 0;
 }
 
