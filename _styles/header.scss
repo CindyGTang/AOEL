@@ -116,7 +116,7 @@ header:not([data-big]) {
 }
 
 header[data-big] {
-  justify-content: left;
+  justify-content: right;
   align-items: center;
   flex-direction: column;
   padding: $big-padding 20px;
@@ -127,7 +127,6 @@ header[data-big] {
 
   .home {
     flex-direction: column;
-    justify-content: left;
     flex-grow: 0;
   }
 
