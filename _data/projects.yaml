@@ -1,7 +1,7 @@
 - title: Design and Synthesis of New Materials
   group: featured
-  image: images/photo.jpg
-  description: We have an in-house material development team to synthesize novel functional materials for organic-based electronic devices and other applications. The flexibility to modify chemical/electrical/mechanical properties of materials allows us to perform in-depth studies of next-generation materials and devices. 
+  image: images/chemistry.jpg
+  description: We have an in-house material development team to synthesize novel functional materials for organic-based electronic devices and other applications. The flexibility to modify the chemical/ electrical/ mechanical properties of materials allows us to perform in-depth studies and design next-generation high performance materials and devices. 
   tags:
     - Chemists
     - Material Scientists
@@ -10,8 +10,8 @@
 
 - title: Device and Circuit Fabrication
   group: featured
-  image: images/photo.jpg
-  description: We perform most of the device and circuit fabrication in our lab, which has been equipped with many metrology & processing equipment and integrated gloveboxes with full capability of device fabrication to measurement. 
+  image: images/device.jpg
+  description: We perform most of the device and circuit fabrication in our lab, which has been equipped with many processing & metrology equipment and integrated gloveboxes with full capability of device fabrication to measurement. 
   tags:
     - Physicists
     - Chemical engineers 
@@ -49,7 +49,7 @@
 - title: PhD (HKPFS) - Fall 2026 Intake
   subtitle: open for application
   group: jobs
-  image: images/HKPFS-minion.jpg
+  image: images/C1.jpg
   link: https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme
   description: Interested applicants for the highly competitive HKPFS fellowships (include stipend and research-related travel allowance) are highly encourage to apply early. Apply through email - only shortlisted applicants will be contacted. Application deadline -Late Oct 2025. 
   repo: greenelab/lab-website-template
@@ -59,7 +59,7 @@
 - title: PhD (PGS) - Spring 2025 / Fall 2026 Intake
   subtitle: open for application
   group: jobs
-  image: images/phd-minion.jpg
+  image: images/C2.jpg
   link: https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees
   description: A limited number of PGS full scholarships which provides monthly are available. Acceptance will be denied once all scholarship positions are filled. Apply through email - only shortlisted applicants will be contacted. Application deadline -Oct 2025 (for Spring 2026 intake) -May 2026 (for Fall 2026 intake).
   repo: greenelab/lab-website-template
@@ -70,7 +70,7 @@
 - title: MPhil (PGS) - Spring 2025 / Fall 2026 Intake
   subtitle: open for application
   group: jobs
-  image: images/mphil-minion.jpg
+  image: images/C3.jpg
   link: https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees
   description: A limited number of PGS full scholarships which provides monthly are available. Acceptance will be denied once all scholarship positions are filled. Apply through email - only shortlisted applicants will be contacted. Application deadline -Oct 2025 (for Spring 2026 intake) -May 2026 (for Fall 2026 intake).
   repo: greenelab/lab-website-template
@@ -81,7 +81,7 @@
 - title: RGC Postdoctoral Fellowship
   subtitle: Currently no availability
   group: jobs
-  image: images/postdoc-minion.jpg
+  image: images/C4.jpg
   link: https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/
   description: Interested applicants for the highly competitive RGC postdoctoral fellowships (include stipend and research-related travel allowance) are highly encourage to apply early. Apply through email - only shortlisted applicants will be contacted. Internal deadline -Aug 2025.
   repo: greenelab/lab-website-template
@@ -92,7 +92,7 @@
 - title: UROPS (all year round)/ FYT
   subtitle: open for application
   group: jobs
-  image: images/urop-minion.jpg
+  image: images/C5.jpg
   link: https://urop.hkust.edu.hk/home
   description: Undergraduate students from CBE or other faculties interested in having some hands-on research experience may contact us to see our full list of latest projects (which may not be listed online). Outstanding students may have the opportunity to present their published work in an all-paid conference! 
   repo: greenelab/lab-website-template
@@ -103,6 +103,7 @@
 - title: Exchange UG students
   subtitle: open for application
   group: jobs
+  image: images/C6.jpg
   link: https://join.hkust.edu.hk/admissions/visiting
   description: We welcome UG students from other instituitions to join us for their final year project or a summer project. Apply early - visa application require at least 3 months processing time. 
   tags:
