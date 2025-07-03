@@ -1,6 +1,6 @@
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
@@ -27,37 +27,26 @@ header a {
 }
 
 .logo {
-  height: 40px;
+  height: 80px;
 }
 
 .logo > * {
   width: unset;
   height: 100%;
-}
-
-.title-text {
-  display: flex;
-  justify-content: flex-start;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 5px;
-  min-width: 0;
-  font-family: var(--title);
-  text-align: left;
+  position: absolute;
+  left: 10%;
+  top: 10%;
 }
 
 .title {
   font-size: var(--large);
 }
 
-.subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
-}
-
 .nav-toggle {
   display: none;
-  position: relative;
+  position: absolute;
+  left: 50%;
+  top: 50%;
   width: 30px;
   height: 30px;
   margin: 0;
@@ -129,7 +118,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 120px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
