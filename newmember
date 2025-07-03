@@ -1,0 +1,11 @@
+Adding new member:
+(1) copy and rename member profile under "_members/[name].md"
+(2) upload photo into "_members/photos/[role]_[name].jpg"
+(3) arrange member profile under "CindyGTang/AOEL/_config.yaml"
+Order: (arranged in role, followed by date of joining group) 
+postdoc, phd, mphil, msc, ug, exchange 
+
+
+alumni member:
+(1) open the file "_members/[name].md"
+(2) Add the following "group: alumni"
