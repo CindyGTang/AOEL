@@ -47,17 +47,6 @@ header a {
   height: 100%;
 }
 
-.title-text {
-  display: flex;
-  justify-content: flex-start;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 5px;
-  min-width: 0;
-  font-family: var(--title);
-  text-align: left;
-}
-
 
 .nav-toggle {
   display: none;
@@ -95,7 +84,7 @@ nav {
   font-family: var(--heading);
   text-transform: uppercase;
   font-weight: var(--regular);
-  font-size: var(--xxl);
+  font-size: var(--large);
 }
 
 nav > a {

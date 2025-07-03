@@ -14,7 +14,7 @@ Our research interests lie in developing, designing and synthesizing new materia
 
 {% include section.html %}
 
-## Sub-Groups
+## Sub-Areas
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
