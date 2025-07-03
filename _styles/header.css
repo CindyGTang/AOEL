@@ -36,14 +36,15 @@ header a {
 }
 
 .nav-toggle {
-  display: none;
-  position: relative;
-  width: 30px;
-  height: 30px;
-  margin: 0;
+  content: "\f0c9";
+  position: absolute;
+  left: 50%;
+  top: 50%;
   color: var(--text);
-  appearance: none;
-  transition: background var(--transition);
+  font-size: 15px;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  transform: translate(-50%, -50%);
 }
 
 .nav-toggle:after {
