@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Research
 nav:
   order: 3
   tooltip: Research Interest
@@ -11,18 +11,12 @@ Our research interests lie in developing, designing and synthesizing new materia
 
 <img src="https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A.jpg" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" srcset="https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A-p-500.jpg 500w, https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A-p-800.jpg 800w, https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A-p-1080.jpg 1080w, https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A-p-1600.jpg 1600w, https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A-p-2000.jpg 2000w, https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A-p-2600.jpg 2600w, https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A-p-3200.jpg 3200w, https://cdn.prod.website-files.com/66810e9a58f4a33a0e4c9c64/66a366de663a611eefa17d59_Research%20Area%201A.jpg 3755w" alt="">
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Sub-Groups
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}

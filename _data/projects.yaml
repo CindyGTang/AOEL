@@ -1,22 +1,22 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Design and Synthesis of New Materials
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We have an in-house material development team to synthesize novel functional materials for organic-based electronic devices and other applications. The flexibility to modify chemical/electrical/mechanical properties of materials allows us to perform in-depth studies of next-generation materials and devices. 
   tags:
-    - resource
+    - Chemists
+    - Material Scientists
+    - Chemical engineers 
+    - Bioengineers
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Device and Circuit Fabrication
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We perform most of the device and circuit fabrication in our lab, which has been equipped with many metrology & processing equipment and integrated gloveboxes with full capability of device fabrication to measurement. 
   tags:
-    - resource
+    - Physicists
+    - Chemical engineers 
+    - Bioengineers 
+    - Electrical engineers
 
 - title: Cool Tutorial
   subtitle: a subtitle
