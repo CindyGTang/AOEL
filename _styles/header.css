@@ -18,7 +18,7 @@ header a {
 
 .home {
   display: flex;
-  justify-content: left;
+  justify-content: right;
   align-items: center;
   gap: 10px;
   flex-basis: 0;
@@ -36,15 +36,14 @@ header a {
 }
 
 .nav-toggle {
-  content: "\f0c9";
-  position: absolute;
-  left: 50%;
-  top: 50%;
+  display: none;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  margin: 0;
   color: var(--text);
-  font-size: 15px;
-  font-family: "Font Awesome 6 Free";
-  font-weight: 900;
-  transform: translate(-50%, -50%);
+  appearance: none;
+  transition: background var(--transition);
 }
 
 .nav-toggle:after {
@@ -65,7 +64,7 @@ header a {
 
 nav {
   display: flex;
-  justify-content: left;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
@@ -101,7 +100,7 @@ nav > a:hover {
 }
 
 header[data-big] {
-  justify-content: right;
+  justify-content: center;
   align-items: center;
   flex-direction: column;
   padding: 20px 20px;
@@ -114,6 +113,7 @@ header[data-big] .home {
 header[data-big] .logo {
   height: 100px;
   flex-shrink: 0;
+  justify-content: left;
 }
 
 /*# sourceMappingURL=header.css.map */
