@@ -1,6 +1,6 @@
 ---
 name: Ruiran Huang
-image: _members/photos/PhD_Ruiran-Huang.png
+image: images/team/PhD_Ruiran-Huang.png
 role: phd-co
 links:
   email: rhuang719@connect.hkust-gz.edu.cn

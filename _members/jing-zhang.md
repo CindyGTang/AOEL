@@ -1,6 +1,6 @@
 ---
 name: Jing Zhang
-image: _members/photos/PhD_Jing-Zhang.jpg
+image: images/team/PhD_Jing-Zhang.jpg
 role: phd
 links:
   email: 

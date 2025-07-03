@@ -1,6 +1,6 @@
 ---
 name: Monika Bai
-image: _members/photos/Postdoc_Monika-Bai.jpg
+image: images/team/Postdoc_Monika-Bai.jpg
 role: postdoc
 links:
   email: drmonikag@ust.hk

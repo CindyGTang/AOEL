@@ -1,6 +1,6 @@
 ---
 name: Yulin Xie
-image: _members/photos/MSc_Yulin-Xie.JPG
+image: images/team/MSc_Yulin-Xie.JPG
 role: msc
 group: alumni
 links:
