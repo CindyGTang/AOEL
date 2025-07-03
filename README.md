@@ -7,4 +7,4 @@
 
   Visit **[cindytanglab.com](https://cindytanglab.com)** 🚀
 
-  _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+  _Built with Lab Website Template
