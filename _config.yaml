@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: 
+title: AOEL
 subtitle: 
 description: Advanced Organic Electronics Lab
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background-white.jpg
+footer: images/background-black.jpg
 proofer: false
 
 # site social media and other links
