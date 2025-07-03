@@ -27,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: 40px;
+  height: 80px;
 }
 
 .logo > * {
@@ -100,7 +100,7 @@ nav > a:hover {
   color: var(--primary);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 200px) {
   header:not([data-big]) {
     justify-content: flex-end;
   }
@@ -121,7 +121,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 100px 20px;
+  padding: 90px 20px;
   top: unset;
 }
 header[data-big] .home {
