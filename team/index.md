@@ -9,6 +9,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
+
 {% include section.html %}
 
 # Current Members

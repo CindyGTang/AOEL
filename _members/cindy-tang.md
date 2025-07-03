@@ -1,6 +1,6 @@
 ---
 name: Cindy G. Tang (董冠妤)
-image: _members/photos/PI_CindyTang.jpg
+image: images/team/PI_CindyTang.jpg
 role: pi
 aliases:
   - Cindy Tang
