@@ -1,15 +1,15 @@
 ---
 ---
 
-$logo-big: 160px;
-$logo: 120px;
+$logo-big: 120px;
+$logo: 80px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
@@ -45,31 +45,21 @@ header a {
 .logo > * {
   width: unset;
   height: 100%;
-}
-
-.title-text {
-  display: flex;
-  justify-content: flex-start;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 5px;
-  min-width: 0;
-  font-family: var(--title);
-  text-align: left;
+  position: absolute;
+  left: 10%;
+  top: 10%;
 }
 
 .title {
   font-size: var(--large);
 }
 
-.subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
-}
 
 .nav-toggle {
   display: none;
-  position: relative;
+  position: absolute;
+  left: 50%;
+  top: 50%;
   width: 30px;
   height: 30px;
   margin: 0;
