@@ -103,10 +103,8 @@
 - title: Exchange UG students
   subtitle: open for application
   group: jobs
-  image: images/exchange-minion.jpg
   link: https://join.hkust.edu.hk/admissions/visiting
   description: We welcome UG students from other instituitions to join us for their final year project or a summer project. Apply early - visa application require at least 3 months processing time. 
-  repo: greenelab/lab-website-template
   tags:
     - exchange (research)
 
