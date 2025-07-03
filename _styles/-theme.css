@@ -1,7 +1,7 @@
 [data-dark=false] {
-  --primary: #1d3557;
-  --secondary: #ffb703;
-  --text: #a8dadc;
+  --primary: #0795d9;
+  --secondary: #7dd3fc;
+  --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
   --light-gray: #e0e0e0;
@@ -11,10 +11,10 @@
 }
 
 [data-dark=true] {
-  --primary: #219ebc;
-  --secondary: #ffb703;
-  --text: #a8dadc;
-  --background: #000000;
+  --primary: #0795d9;
+  --secondary: #075985;
+  --text: #ffffff;
+  --background: #181818;
   --background-alt: #1c1c1c;
   --light-gray: #404040;
   --gray: #808080;
