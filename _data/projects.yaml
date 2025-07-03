@@ -51,62 +51,6 @@
   group: jobs
   image: images/HKPFS-minion.jpg
   link: https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme
-  description: Interested applicants for the highly competitive HKPFS fellowships (include monthly stipend and yearly travel grant) are highly encourage to apply early. Apply through email - only shortlisted applicants will be contacted. Application deadline: Late Oct 2025. 
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-    
-- title: PhD (PGS) - Spring 2025 / Fall 2026 Intake
-  subtitle: open for application
-  group: jobs
-  image: images/phd-minion.jpg
-  link: https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees
-  description: A limited number of PGS full scholarships which provides monthly are available. Acceptance will be denied once all scholarship positions are filled. Apply through email - only shortlisted applicants will be contacted. Application deadline: Oct 2025 (for Spring 2026 intake). May 2026 (for Fall 2026 intake).
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-
-- title: MPhil (PGS) - Spring 2025 / Fall 2026 Intake
-  subtitle: open for application
-  group: jobs
-  image: images/mphil-minion.jpg
-  link: https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees
-  description: A limited number of PGS full scholarships which provides monthly are available. Acceptance will be denied once all scholarship positions are filled. Apply through email - only shortlisted applicants will be contacted. Application deadline: Oct 2025 (for Spring 2026 intake). May 2026 (for Fall 2026 intake).
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-
-- title: Postdoc
-  subtitle: Currently no availability
-  group: jobs
-  image: images/postdoc-minion.jpg
-  description: Currently no availability
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-
-- title: FYP/UROPS - all year-round
-  subtitle: open for application
-  group: jobs
-  image: images/urop-minion.jpg
-  link: https://urop.hkust.edu.hk/home
-  description: Undergraduate students interested in having some hands-on research experience may contact us (our full list of latest projects may not be listed online). Outstanding students will have the opportunity to present their published work in an all-paid conference! 
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-
-- title: Exchange UG students
-  subtitle: open for application
-  group: jobs
-  image: images/exchange-minion.jpg
-  link: https://join.hkust.edu.hk/admissions/visiting
-  description: We welcome UG students from other instituitions to join us for their final year project or a summer project. Apply early - visa application require at least 3 months processing time. 
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  description: Interested applicants for the highly competitive HKPFS fellowships (include monthly stipend and yearly travel grant) are highly encourage to apply early. Apply through email - only shortlisted applicants will be contacted. 
 
 
