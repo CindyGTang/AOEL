@@ -18,7 +18,7 @@ header a {
 
 .home {
   display: flex;
-  justify-content: right;
+  justify-content: left;
   align-items: center;
   gap: 10px;
   flex-basis: 0;
@@ -108,12 +108,12 @@ header[data-big] {
 }
 header[data-big] .home {
   flex-direction: column;
+  justify-content: left;
   flex-grow: 0;
 }
 header[data-big] .logo {
   height: 100px;
   flex-shrink: 0;
-  justify-content: left;
 }
 
 /*# sourceMappingURL=header.css.map */
