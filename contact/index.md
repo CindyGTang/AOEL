@@ -2,7 +2,7 @@
 title: Contact Us
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Ways to Reach Us
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact Us
