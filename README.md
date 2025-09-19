@@ -5,6 +5,6 @@
 
   # Cindy Tang - AOEL
 
-  Visit **[cindytanglab.com](https://cindytanglab.com)** 🚀
+  Visit **[cindytanglab.com](http://cindytanglab.com)** 🚀
 
   _Built with Lab Website Template
