@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acsnano.5c11528
+  title: Multifunctional Electronics Enabled by Ion-Based Organic Electrochemical
+    Transistor with Large Threshold Voltage Tunability Window
+  authors:
+  - Zhongliang Zhou
+  - Qiang He
+  - Cindy G. Tang
+  - Kunqi Hou
+  - Jun Yang
+  - Christina J. Kousseff
+  - Iain McCulloch
+  - Wei Lin Leong
+  publisher: ACS Nano
+  date: '2025-10-27'
+  link: https://doi.org/hbbx4x
+  orcid: 0000-0002-8799-0873
+  cindy tang: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.chemmater.4c00867
   title: Improved Stability and Performance of an <i>n</i>-Type Depletion Mode Poly(benzodifurandione)
     Based Organic Electrochemical Transistor via Electrolyte Selection
@@ -14,29 +33,6 @@
   publisher: Chemistry of Materials
   date: '2024-09-10'
   link: https://doi.org/g9rfr4
-  orcid: 0000-0002-8799-0873
-  cindy tang: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-024-51403-9
-  title: Artificial organic afferent nerves enable closed-loop tactile feedback for
-    intelligent robot
-  authors:
-  - Shuai Chen
-  - Zhongliang Zhou
-  - Kunqi Hou
-  - Xihu Wu
-  - Qiang He
-  - Cindy G. Tang
-  - Ting Li
-  - Xiujuan Zhang
-  - Jiansheng Jie
-  - Zhiyi Gao
-  - Nripan Mathews
-  - Wei Lin Leong
-  publisher: Nature Communications
-  date: '2024-08-15'
-  link: https://doi.org/g9rfr5
   orcid: 0000-0002-8799-0873
   cindy tang: true
   plugin: orcid.py
@@ -60,6 +56,29 @@
   publisher: Advanced Materials
   date: '2024-07-17'
   link: https://doi.org/g9rfr6
+  orcid: 0000-0002-8799-0873
+  cindy tang: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-024-51403-9
+  title: Artificial organic afferent nerves enable closed-loop tactile feedback for
+    intelligent robot
+  authors:
+  - Shuai Chen
+  - Zhongliang Zhou
+  - Kunqi Hou
+  - Xihu Wu
+  - Qiang He
+  - Cindy G. Tang
+  - Ting Li
+  - Xiujuan Zhang
+  - Jiansheng Jie
+  - Zhiyi Gao
+  - Nripan Mathews
+  - Wei Lin Leong
+  publisher: Nature Communications
+  date: '2024-08-15'
+  link: https://doi.org/g9rfr5
   orcid: 0000-0002-8799-0873
   cindy tang: true
   plugin: orcid.py
