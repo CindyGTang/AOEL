@@ -4,7 +4,7 @@ nav:
   order: 3
   tooltip: Research Interest
 ---
-# {% include icon.html icon="fa-solid fa-wrench" %}Research Facilities
+# {% include icon.html icon="fa-solid fa-flask" %}Research Facilities
 
 Our lab provides a complete in-house workflow from the synthesis of novel organic materials to the fabrication and precise electrical characterization of organic electronic devices. This integrated capability allows us to rapidly prototype and test new concepts in a controlled environment.
 
