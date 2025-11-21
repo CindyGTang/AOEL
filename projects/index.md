@@ -8,7 +8,7 @@ nav:
 
 Our lab provides a complete in-house workflow from the synthesis of novel organic materials to the fabrication and precise electrical characterization of organic electronic devices. This integrated capability allows us to rapidly prototype and test new concepts in a controlled environment.
 
-<img src= "images/lab1.jpg" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" align="absmiddle">
+<img src= "/images/lab1.jpg" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" align="absmiddle">
 
 
 {% include section.html %}
