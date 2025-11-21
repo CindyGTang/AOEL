@@ -17,7 +17,7 @@ Our lab provides a complete in-house workflow from the synthesis of novel organi
   </div>
 </div>
 
-<img src= "/images/lab1.tif" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" align="absmiddle">
+<img src= "/images/lab.jpg" sizes="(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px" align="absmiddle">
 
 
 {% include section.html %}
