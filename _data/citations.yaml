@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acsaelm.5c02385
+  title: High-Performance All-Printed Vertical Step Organic Electrochemical Transistors
+    for Flexible Bioelectronics and Logic Circuit Integration
+  authors:
+  - Yingjun Chen
+  - Cindy G. Tang
+  - Zhongliang Zhou
+  - Ran Li
+  - Zheng Liu
+  - Ting Li
+  - Wei Lin Leong
+  publisher: ACS Applied Electronic Materials
+  date: '2026-02-23'
+  link: https://doi.org/hchxrt
+  orcid: 0000-0002-8799-0873
+  cindy tang: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsnano.5c11528
   title: Multifunctional Electronics Enabled by Ion-Based Organic Electrochemical
     Transistor with Large Threshold Voltage Tunability Window
@@ -19,9 +37,27 @@
   cindy tang: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.nanoen.2024.110583
+  title: Skin-inspired flexible and printed iontronic sensor enables bimodal sensing
+    of robot skin for machine-learning-assisted object recognition
+  authors:
+  - Qiang He
+  - Zhongliang Zhou
+  - Mon Myat Swe
+  - Cindy G. Tang
+  - Yanju Wang
+  - Wei Lin Leong
+  publisher: Nano Energy
+  date: '2025-02-01'
+  link: https://doi.org/hchxrv
+  orcid: 0000-0002-8799-0873
+  cindy tang: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.chemmater.4c00867
-  title: Improved Stability and Performance of an <i>n</i>-Type Depletion Mode Poly(benzodifurandione)
-    Based Organic Electrochemical Transistor via Electrolyte Selection
+  title: "Improved Stability and Performance of an\n                    <i>n</i>\n\
+    \                    -Type Depletion Mode Poly(benzodifurandione) Based Organic\
+    \ Electrochemical Transistor via Electrolyte Selection"
   authors:
   - Xihu Wu
   - Haoran Tang
@@ -79,6 +115,50 @@
   publisher: Nature Communications
   date: '2024-08-15'
   link: https://doi.org/g9rfr5
+  orcid: 0000-0002-8799-0873
+  cindy tang: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adma.202308823
+  title: "Stable <i>n</i>\u2010Type Perylene Derivative Ladder Polymer with Antiambipolarity\
+    \ for Electrically Reconfigurable Organic Logic Gates"
+  authors:
+  - Xihu Wu
+  - Qiang He
+  - Zhongliang Zhou
+  - Teck Lip Dexter Tam
+  - Cindy Tang
+  - Ming Lin
+  - Maximilian Moser
+  - Sophie Griggs
+  - Adam Marks
+  - Shuai Chen
+  - Jianwei Xu
+  - Iain McCulloch
+  - Wei Lin Leong
+  publisher: Advanced Materials
+  date: '2024-04-03'
+  link: https://doi.org/hchxrw
+  orcid: 0000-0002-8799-0873
+  cindy tang: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/d4tc02228a
+  title: "Effect of counterion tether length on stability, work function and application\
+    \ of a self-compensated, hole-doped triarylamine-\n                    <i>alt</i>\n\
+    \                    -fluorene model polymer"
+  authors:
+  - Qi-Mian Koh
+  - Kevin Christopher Boellaard
+  - Yu Wang
+  - Cindy G. Tang
+  - Qiu-Jing Seah
+  - Peter. K. H. Ho
+  - Rui-Qi Png
+  - Lay-Lay Chua
+  publisher: Journal of Materials Chemistry C
+  date: '2024-01-01'
+  link: https://doi.org/hchxrx
   orcid: 0000-0002-8799-0873
   cindy tang: true
   plugin: orcid.py
