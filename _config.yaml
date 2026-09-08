@@ -48,7 +48,7 @@ collections:
     - yulin-xie.md
     - vimbai-norraine.md
     - xinyi-lin.md
-    output: true
+    output: false
   # generate page for each post
   posts:
     output: true
