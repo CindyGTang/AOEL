@@ -14,11 +14,11 @@ phd:
 phd-co:
   description: PhD; co-supervised
 
-msc:
-  description: MSc
-
 mphil:
   description: MPhil
+  
+msc:
+  description: MSc
 
 ug:
   description: Undergrad 
