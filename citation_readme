@@ -1,0 +1,6 @@
+update citation referencing:
+Commit changes: select "PUSH AND PULL"
+
+citations are automatically generated using ORCID no. in the file under _data > orcid.yaml
+Do NOT DIRECTLY MODIFY or ADD under _data > citations.yaml
+
