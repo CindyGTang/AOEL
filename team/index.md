@@ -14,7 +14,7 @@ nav:
 
 # Current Members
 
-{% include list.html data="members" component="portrait" filter="group == 'postdoc' or group == 'phd' or group == 'phd-co' or group == 'mphil' or group == 'msc' or group == 'ug' and role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="group != 'alumni' and role != 'pi'" %}
 
 
 {% include section.html %}
